@@ -29,3 +29,5 @@ Student Attitude and Behavior Dataset from Kaggle.
 - Data Cleaning and Preprocessing
 - Analytical Thinking Using Visual Insights
 
+## Dashboard
+<img width="1858" height="453" alt="dashboard01" src="https://github.com/user-attachments/assets/1a63ec93-6736-4d70-927b-9283128327ca" />
